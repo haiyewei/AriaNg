@@ -42,9 +42,10 @@
         };
 
         var isInsecureProtocolDisabled = function () {
-            var protocol = $location.protocol();
+            // var protocol = $location.protocol();
 
-            return protocol === 'https';
+            // return protocol === 'https';
+            return false; // 修改: 不再限制HTTP/WS连接
         };
 
         var getLanguageNameFromAlias = function (alias) {

@@ -266,6 +266,7 @@ WebSocket=WebSocket
 WebSocket (Disabled)=WebSocket (已禁用)
 WebSocket (Security)=WebSocket (安全)
 Http and WebSocket would be disabled when accessing AriaNg via Https.=使用 Https 访问 AriaNg 时，Http 和 WebSocket 将被禁用.
+All protocols are available when accessing AriaNg via Https.=使用 Https 访问 AriaNg 时，所有协议均可用.
 POST=POST
 GET=GET
 Enabled=启用
